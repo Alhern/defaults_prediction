@@ -4,6 +4,8 @@
 
 Exploratory data analysis and prediction of credit card default payments using the [Default of Credit Card Clients Dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) from the UCI Machine Learning Repository.
 
+You can use [Binder](https://mybinder.org/) to run the notebook in the cloud, or clone the repository and run it locally.
+
 ### Credit
 This project has been built with:
 - Jupyter Notebook
