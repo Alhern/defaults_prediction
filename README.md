@@ -18,4 +18,5 @@ This project has been built with:
 - Git/GitHub
 - DataSpell
 - Binder
+- pipreqsnb
 
