@@ -1,5 +1,7 @@
 # Predicting credit card defaults
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alhern/defaults_prediction/main)
+
 Exploratory data analysis and prediction of credit card default payments using the [Default of Credit Card Clients Dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) from the UCI Machine Learning Repository.
 
 ### Credit
@@ -15,4 +17,5 @@ This project has been built with:
 - Imblearn
 - Git/GitHub
 - DataSpell
+- Binder
 
